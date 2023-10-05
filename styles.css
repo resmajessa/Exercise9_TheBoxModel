@@ -1,0 +1,22 @@
+.circle{
+   margin-left: 800px;
+   margin-top: 400px;
+   border-radius: 5px solid black;
+  
+}
+.context{
+   text-align: center;
+}
+.border{
+   border: 3px solid black;
+   padding: 50px;
+   
+   
+  
+}
+img {
+   height: 150px;
+   width: 150px;
+   border-radius: 300px;
+   align-items: center;
+}
